@@ -1,17 +1,4 @@
 <h1 align="center">Hi dear 👋, I'm Thalles Gabriel</h1>
-<h3 align="center">Full Stack developer looking for the next level.</h3>
-
-
-- 🔭 Studying Systems Development at ETEC Cidade Tiradentes
-
-- 👨‍💻 Learning is continuous and there will always be a next level.
-
-- 💬 **HTML, CSS, JavaScript, SQL**
-
-- ⚡ **Node.js, ReactJS, React Native**
-
-- 📫 How to reach me **thallesgabriel1307@gmail.com**
-
 
 <p align="center">
    <a href="https://github.com/thallesyasmim" target="_blank" >
@@ -32,7 +19,23 @@
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin"></a>
     
  </p>
-</p>
+ 
+<h4 align="center">Full Stack developer looking for the next level.</h4>
+
+
+- 🔭 Studying Systems Development at ETEC Cidade Tiradentes
+
+- 👨‍💻 Learning is continuous and there will always be a next level.
+
+- 💬 **HTML, CSS, JavaScript, SQL**
+
+- ⚡ **Node.js, ReactJS, React Native**
+
+- 📫 How to reach me **thallesgabriel1307@gmail.com**
+
+
+
+
 
 
 
