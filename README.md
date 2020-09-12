@@ -1,6 +1,6 @@
 <h1 align="center">Hi dear 👋, I'm Thalles Gabriel</h1>
 
-<h4 align="center">Full Stack developer looking for the next level.</h4>
+<h4 align="center">💻🔥 Full Stack developer looking for the next level.</h4>
 
 <p align="center">
 
