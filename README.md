@@ -1,4 +1,7 @@
-<h1 align="center">Hi dear 👋, I'm Thalles Gabriel</h1>
+<p align="center">
+   <img src="https://media1.tenor.com/images/5fbb73df98c9c6f03eee48ee1f52ab4d/tenor.gif?itemid=14498516" width="160" />
+ </p>
+<h4 align="center">Hi dear 👋, I'm Thalles Gabriel</h4>
 
 <h4 align="center">💻🔥 Full Stack developer looking for the next level.</h4>
 
