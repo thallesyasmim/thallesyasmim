@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://media1.tenor.com/images/dad4c86a42d485e959ed487f0ea3420a/tenor.gif?itemid=10785073" width="160" />
+   <img src="https://media1.tenor.com/images/dad4c86a42d485e959ed487f0ea3420a/tenor.gif?itemid=10785073" width="180" />
  </p>
 <h4 align="center">Hi dear 👋, I'm Thalles Gabriel</h4>
 
