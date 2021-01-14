@@ -6,7 +6,6 @@
 <h4 align="center">💻🔥 Full Stack developer looking for the next level.</h4>
 
 <p align="center">
-
 <img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
 <img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
 <img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
