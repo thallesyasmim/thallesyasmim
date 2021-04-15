@@ -16,7 +16,7 @@
  ⚡ Currently focused on <strong>Node.js</strong>, <strong>Vue.js</strong>,  <strong>ReactJS</strong> & <strong>React Native</strong>.
 </p>
 
-<p align="center">
+<p align="left">
 <img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 <img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
 <img height="26" alt="VueJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> &nbsp;
