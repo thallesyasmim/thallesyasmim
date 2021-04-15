@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Vector">
+<img src="./.github/computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Vector">
 
 <p align="left"> 
    Passionate about programming and enthusiastic about the  <strong>JavaScript ecosystem</strong>.
