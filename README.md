@@ -1,55 +1,29 @@
-<p align="center">
-   <img src="https://media1.tenor.com/images/dad4c86a42d485e959ed487f0ea3420a/tenor.gif?itemid=10785073" width="180" />
- </p>
-<h4 align="center">Hi dear 👋, I'm Thalles Gabriel</h4>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Vector">
 
-<h4 align="center">💻🔥 Full Stack developer looking for the next level.</h4>
-
-<p align="center">
-<img height="26" alt="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> &nbsp;
-<img height="26" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> &nbsp;
-<img height="26" alt="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
-<img height="26" alt="NodeJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> &nbsp;
-<img height="26" alt="VueJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> &nbsp;
-<img height="26" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp;
-<img height="26" alt="GraphQL" src="https://cdn.svgporn.com/logos/graphql.svg"> &nbsp;
-<img height="26" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> &nbsp;
+<p align="left"> 
+   Passionate about programming and enthusiastic about the  <strong>JavaScript ecosystem</strong>.
 </p>
 
-<p align="center">
-   <a href="https://github.com/thallesyasmim" target="_blank" >
-    <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github"></a>
-    
-      
-  <a href="https://www.facebook.com/thallesgabriel1307" target="_blank" >
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook--%23F8952D?style=social&logo=facebook"></a>
-    
-    
-  <a href="mailto:thallesgabriel1307@gmail.com" target="_blank" >
-    <img alt="Email" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail"></a> 
-  
-  <a href="https://api.whatsapp.com/send?phone=5511970670088" target="_blank" >
-    <img alt="WhatsApp" src="https://img.shields.io/badge/Whatsapp--%23F8952D?style=social&logo=whatsapp"></a>
-    
-   <a href="https://www.linkedin.com/in/thalles-gabriel-2027381b5/" target="_blank" >
-    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin"></a>
-    
- </p>
+<p align="left">
+  🔭 Studying Systems Development at ETEC Cidade Tiradentes
+</p>
 
+<p align="left">
+  👨‍💻 In search of becoming a <strong>Full Stack Developer</strong> & <strong>JavaScript Specialist</strong>.
+</p>
 
-- 🔭 Studying Systems Development at ETEC Cidade Tiradentes
+<p align="left">
+ ⚡ Currently focused on <strong>Node.js</strong>, <strong>Vue.js</strong>,  <strong>ReactJS</strong> & <strong>React Native</strong>.
+</p>
 
-- 👨‍💻 Learning is continuous and there will always be a next level.
+<p align="left">
+  📫 How to reach me </strong>thallesgabriel1307@gmail.com</strong>
+</p>
 
-- 💬 **HTML, CSS, JavaScript, SQL, GIT**
+<p align="left">
+  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
 
-- ⚡ **Node.js, Vue.js, ReactJS, React Native**
-
-- 📫 How to reach me **thallesgabriel1307@gmail.com**
-
-
-
-
-
-
-
+  <a href="https://www.facebook.com/exudojazz/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/exudojazz/"/></a>
+</p>  
