@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-"The man would not have achieved the possible if, repeatedly, he had not tried the impossible."
+<strong>"The man would not have achieved the possible if, repeatedly, he had not tried the impossible."</strong>
 </p>
 
 <p align="left">
