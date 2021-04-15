@@ -16,14 +16,8 @@
  ⚡ Currently focused on <strong>Node.js</strong>, <strong>Vue.js</strong>,  <strong>ReactJS</strong> & <strong>React Native</strong>.
 </p>
 
-<p align="left">
-  📫 How to reach me </strong>thallesgabriel1307@gmail.com</strong>
-</p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
-
-  <a href="https://www.facebook.com/exudojazz/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/exudojazz/"/></a>
+  [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-gabriel-2027381b5/) &nbsp;
+  [![Gmail Badge](https://img.shields.io/badge/GMAIL-%23DC322F.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:thallesgabriel1307@gmail.com)
 </p>  
