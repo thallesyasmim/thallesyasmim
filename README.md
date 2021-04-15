@@ -1,8 +1,8 @@
 <img src="./.github/computer.png" min-width="300px" max-width="370px" width="370px" align="right" alt="Computer Vector">
 
-<h3 align="left"> 
+<h4 align="left"> 
    Passionate about programming and enthusiastic about the  <strong>JavaScript ecosystem</strong>.
-</h3>
+</h4>
 
 <p align="left">
   🔭 Studying Systems Development at ETEC Cidade Tiradentes
