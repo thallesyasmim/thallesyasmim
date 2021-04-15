@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  👨‍💻 In search of becoming a <strong>Full Stack Developer</strong> & <strong>JavaScript Specialist</strong>.
+  In search of becoming a <strong>Full Stack Developer</strong> & <strong>JavaScript Specialist</strong>.
 </p>
 
 <p align="left">
- ⚡ Currently focused on <strong>Node.js</strong>, <strong>Vue.js</strong>,  <strong>ReactJS</strong> & <strong>React Native</strong>.
+ Currently focused on <strong>Node.js</strong>, <strong>Vue.js</strong>,  <strong>ReactJS</strong> & <strong>React Native</strong>.
 </p>
 
 <p align="left">
