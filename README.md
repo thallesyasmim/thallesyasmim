@@ -1,4 +1,4 @@
-<img src="./.github/computer.png" min-width="300px" max-width="370px" width="370px" align="right" alt="Computer Vector">
+<img src="./.github/computer.png" min-width="300px" max-width="370px" width="370px" align="right" alt="Computer and person">
 
 <h4 align="left"> 
    Passionate about programming and enthusiastic about the  <strong>JavaScript ecosystem</strong>.
